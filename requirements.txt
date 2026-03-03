@@ -1,3 +1,7 @@
 ftfy
 regex
 tqdm
+transformers
+datasets
+pillow
+sentencepiece
