@@ -26,6 +26,15 @@ import datasets.imagenet_r
 import trainers.coop
 import trainers.cocoop
 import trainers.zsclip
+import trainers.coop_qwen
+import trainers.coop_llava
+import datasets.pokemon
+import datasets.retinal
+import datasets.wm811k
+import datasets.ood_retinal
+import datasets.ood_wm811k
+import datasets.ood_mvtec
+import datasets.ood_libero
 
 
 def print_args(args, cfg):
